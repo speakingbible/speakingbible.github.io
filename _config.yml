@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://speakingbible.github.io
+title: Speaking Bible Blog
+subtitle: A bible for the illiterate.
+author: Speaking Bible
 simple_search: https://www.google.com/search
 description:
 
