@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Speaking Bible Blog]]></title>
+  <link href="http://speakingbible.github.io/atom.xml" rel="self"/>
+  <link href="http://speakingbible.github.io/"/>
+  <updated>2015-10-15T13:53:30+05:30</updated>
+  <id>http://speakingbible.github.io/</id>
+  <author>
+    <name><![CDATA[Speaking Bible]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What is Speaking Bible]]></title>
+    <link href="http://speakingbible.github.io/blog/2015/10/15/what-is-speaking-bible/"/>
+    <updated>2015-10-15T13:21:30+05:30</updated>
+    <id>http://speakingbible.github.io/blog/2015/10/15/what-is-speaking-bible</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
